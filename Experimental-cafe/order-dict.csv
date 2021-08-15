@@ -1,0 +1,7 @@
+order_id,name,address,phone,courier,status,item_id
+1,Sola Aina,"Lkj, London",098765445676,John,PREPARING,2
+2,Daniel,"Lawn str, London",0378938943,John,DELIVERED,1
+3,Bayo Ajayi,"32, Longlon Str, London",36484982084,Dane,CANCELLED,3
+4,"Matthew, Audrey","6, Brigman Str, Russia",098764573,Dane,PREPARING,2
+5,Bayo,Micheal,09384656737,Dane,PREPARING,2
+6,Goye,"4, Kiston, London",0987456776543,Dane,PREPARING,1
